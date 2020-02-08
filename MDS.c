@@ -3,6 +3,7 @@
 // The complied version of the C code can be used together with MDS_test.R
 // Installation of fftw3 package is required before using this code
 // Instructions for installation of fftw3 can be found at http://www.fftw.org/
+// The compile command is R CMD SHLIB -lfftw3 MDS.c
 // Questions can be sent to Qingfang Liu, psychliuqf@gmail.com
 // Feb, 2020
 
